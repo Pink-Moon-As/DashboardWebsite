@@ -1,0 +1,15 @@
+{
+  "name": "webdashboard_backend",
+  "version": "1.0.0",
+  "description": "Backend code for the chanting app and admin website",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Surya Shukla",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
